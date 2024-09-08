@@ -5,3 +5,7 @@ Answer: to keep backups of different versions of our code and streamline collabo
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: machine learning, on for example, predicting demographic trends based on historic data. A massive amount of data is needed for this, and data science techniques are necessary to collect, clean up, and manage the data used for machine learning.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: merging ties together the histories/contents of two branches into one using a merge commit, whereas rebasing moves the start of one branch to the end of the other, resulting in a linear commit history.
